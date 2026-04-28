@@ -1,2 +1,9 @@
-# simple-json-formatter
-A simple json formatter project
+# Json Formatter
+
+A simple json formatter project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
